@@ -130,7 +130,3 @@ Set your environment variables in Heroku's Config Vars under **Settings**.
 FinPilot is a personal portfolio tracking tool. Nothing in this application constitutes financial advice. Always do your own research before making investment decisions.
 
 ---
-
-## Author
-
-**Arya Lolusare** — [GitHub](https://github.com/AryaLolusare2712)
