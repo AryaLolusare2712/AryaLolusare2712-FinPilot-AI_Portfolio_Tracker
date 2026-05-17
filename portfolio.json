@@ -1,0 +1,70 @@
+{
+  "stocks": {},
+  "crypto": {},
+  "transactions": [
+    {
+      "type": "BUY",
+      "asset_type": "stocks",
+      "symbol": "RELIANCE",
+      "quantity": 1.0,
+      "price": 10.0,
+      "total": 10.0,
+      "date": "2026-05-09T01:56:54.051050"
+    },
+    {
+      "type": "BUY",
+      "asset_type": "stocks",
+      "symbol": "RELIANCE",
+      "quantity": 10.0,
+      "price": 1000.0,
+      "total": 10000.0,
+      "date": "2026-05-09T02:05:35.577465"
+    },
+    {
+      "type": "BUY",
+      "asset_type": "stocks",
+      "symbol": "TCS",
+      "quantity": 13.0,
+      "price": 90.0,
+      "total": 1170.0,
+      "date": "2026-05-09T02:15:35.247917"
+    },
+    {
+      "type": "BUY",
+      "asset_type": "crypto",
+      "symbol": "SOL",
+      "quantity": 10.0,
+      "price": 900.0,
+      "total": 9000.0,
+      "date": "2026-05-09T02:15:59.217049"
+    },
+    {
+      "type": "REMOVE",
+      "asset_type": "stocks",
+      "symbol": "RELIANCE",
+      "quantity": 11.0,
+      "price": 910.0,
+      "date": "2026-05-09T02:17:16.867931"
+    },
+    {
+      "type": "REMOVE",
+      "asset_type": "stocks",
+      "symbol": "TCS",
+      "quantity": 13.0,
+      "price": 90.0,
+      "total": 1170.0,
+      "date": "2026-05-15T12:47:00.834521"
+    },
+    {
+      "type": "REMOVE",
+      "asset_type": "crypto",
+      "symbol": "SOL",
+      "quantity": 10.0,
+      "price": 900.0,
+      "total": 9000.0,
+      "date": "2026-05-15T12:47:27.939613"
+    }
+  ],
+  "created_at": "2026-05-09T01:56:54.051050",
+  "last_updated": "2026-05-15T12:47:27.940610"
+}
